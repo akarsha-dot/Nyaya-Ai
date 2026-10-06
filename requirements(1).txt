@@ -1,5 +1,0 @@
-streamlit
-pypdf
-python-docx
-chromadb
-requests
